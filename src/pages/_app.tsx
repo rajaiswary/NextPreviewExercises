@@ -1,4 +1,3 @@
-'use client';
 import type { AppProps } from "next/app";
 import '@contentful/live-preview/style.css';
 import { ContentfulLivePreviewProvider } from "@contentful/live-preview/react";
